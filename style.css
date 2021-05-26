@@ -1,0 +1,16 @@
+.hero-color {
+    background-image: linear-gradient(to right,  #8771F7,#8470F5, #997AFC ,#e284ff  );
+    padding: 25px;
+    color: mintcream;
+    border-radius: 25px;
+    /* border: 0; */
+}
+
+/* div.hero-color {
+    border: 0;
+}
+
+div.hero-color {
+    box-shadow: 0!important;
+} */
+
